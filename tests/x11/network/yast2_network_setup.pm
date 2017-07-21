@@ -7,7 +7,7 @@
 # notice and this notice are preserved.  This file is offered as-is,
 # without any warranty.
 
-# Summary: tests the wpa2-enterprise capabilites of 'hostapd' and 'NetworkManager'
+# Summary: Configures yast2 by its GUI to use NetworkManager as system network manager
 # Maintainer: Nick Singer <nsinger@suse.de>
 # Tags: poo#20306
 

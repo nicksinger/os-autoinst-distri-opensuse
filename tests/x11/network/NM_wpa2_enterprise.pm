@@ -7,7 +7,7 @@
 # notice and this notice are preserved.  This file is offered as-is,
 # without any warranty.
 
-# Summary: tests the wpa2-enterprise capabilites of 'hostapd' and 'NetworkManager'
+# Summary: Tests the wpa2-enterprise capabilites of 'hostapd' and 'NetworkManager' based on the setup hwsim_wpa2-enterprise_setup does
 # Maintainer: Nick Singer <nsinger@suse.de>
 # Tags: poo#20306
 
